@@ -1,0 +1,8 @@
+aiofiles
+aiohttp
+fastapi
+gunicorn
+openpyxl
+pandas
+python-dotenv
+uvicorn
